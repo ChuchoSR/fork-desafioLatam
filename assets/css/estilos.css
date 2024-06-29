@@ -19,6 +19,10 @@ body {
   background-color: #373a3c;
 }
 
+.myJobs{
+  
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
@@ -26,6 +30,10 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+}
+
+.myJobs{
+  background-color: #373a3c;
 }
 
 /* Contacto */
