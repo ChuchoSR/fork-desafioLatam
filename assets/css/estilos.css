@@ -23,6 +23,10 @@ body {
   
 }
 
+input{
+  background-color: #373a3c;
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
